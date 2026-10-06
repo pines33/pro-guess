@@ -1,0 +1,1849 @@
+{
+ "generated": "2026-10-06",
+ "players": [
+  {
+   "id": "tenz",
+   "name": "TenZ",
+   "realName": "Tyson Van Ngo",
+   "country": "CA",
+   "birth": "2001-05-05",
+   "team": "Sentinels",
+   "region": "Americas",
+   "role": "Duelist",
+   "titles": [
+    "Masters Reykjavík 2021",
+    "Masters Madrid 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/c/c7/TenZ_at_Masters_Madrid_2024.jpg/240px-TenZ_at_Masters_Madrid_2024.jpg",
+    "page": "https://liquipedia.net/commons/File:TenZ_at_Masters_Madrid_2024.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/TenZ"
+  },
+  {
+   "id": "shahzam",
+   "name": "ShahZaM",
+   "realName": "Shahzeeb Khan",
+   "country": "US",
+   "birth": "1993-10-08",
+   "team": "Sentinels",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [
+    "Masters Reykjavík 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/b/b4/Sentinels_ShahZaM_may_2021.png/240px-Sentinels_ShahZaM_may_2021.png",
+    "page": "https://liquipedia.net/commons/File:Sentinels_ShahZaM_may_2021.png"
+   },
+   "source": "https://liquipedia.net/valorant/ShahZaM"
+  },
+  {
+   "id": "sick",
+   "name": "SicK",
+   "realName": "Hunter Mims",
+   "country": "US",
+   "birth": "1998-09-02",
+   "team": "Sentinels",
+   "region": "Americas",
+   "role": "Flex",
+   "titles": [
+    "Masters Reykjavík 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/d/da/Sentinels_SicK_may_2021.png/240px-Sentinels_SicK_may_2021.png",
+    "page": "https://liquipedia.net/commons/File:Sentinels_SicK_may_2021.png"
+   },
+   "source": "https://liquipedia.net/valorant/SicK"
+  },
+  {
+   "id": "dapr",
+   "name": "dapr",
+   "realName": "Michael Gulino",
+   "country": "US",
+   "birth": "1999-01-01",
+   "team": "Sentinels",
+   "region": "Americas",
+   "role": "Sentinel",
+   "titles": [
+    "Masters Reykjavík 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/0/01/Sentinels_dapr_may_2021.png/240px-Sentinels_dapr_may_2021.png",
+    "page": "https://liquipedia.net/commons/File:Sentinels_dapr_may_2021.png"
+   },
+   "source": "https://liquipedia.net/valorant/Dapr"
+  },
+  {
+   "id": "zombs",
+   "name": "zombs",
+   "realName": "Jared Gitlin",
+   "country": "US",
+   "birth": "1998-10-02",
+   "team": "Sentinels",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [
+    "Masters Reykjavík 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/6/68/Sentinels_zombs_may_2021.png/240px-Sentinels_zombs_may_2021.png",
+    "page": "https://liquipedia.net/commons/File:Sentinels_zombs_may_2021.png"
+   },
+   "source": "https://liquipedia.net/valorant/Zombs"
+  },
+  {
+   "id": "zellsis",
+   "name": "Zellsis",
+   "realName": "Jordan Montemurro",
+   "country": "US",
+   "birth": "1998-03-02",
+   "team": "Sentinels",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [
+    "Masters Madrid 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/f/f3/C9_Zellsis_at_VCT_2026_Americas_Stage_2.jpg/240px-C9_Zellsis_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:C9_Zellsis_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Zellsis"
+  },
+  {
+   "id": "zekken",
+   "name": "zekken",
+   "realName": "Zachary Jude Patrone",
+   "country": "US",
+   "birth": "2005-03-19",
+   "team": "Sentinels",
+   "region": "Americas",
+   "role": "Duelist",
+   "titles": [
+    "Masters Madrid 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/d/dc/MIBR_zekken_at_VCT_2026_Americas_Stage_2.jpg/240px-MIBR_zekken_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:MIBR_zekken_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Zekken"
+  },
+  {
+   "id": "johnqt",
+   "name": "johnqt",
+   "realName": "Mohamed Amine Ouarid",
+   "country": "MA",
+   "birth": "1998-09-21",
+   "team": "Sentinels",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [
+    "Masters Madrid 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/b/ba/Sentinels_JohnQT_at_Masters_Madrid.jpg/240px-Sentinels_JohnQT_at_Masters_Madrid.jpg",
+    "page": "https://liquipedia.net/commons/File:Sentinels_JohnQT_at_Masters_Madrid.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Johnqt"
+  },
+  {
+   "id": "yay",
+   "name": "yay",
+   "realName": "Jaccob Whiteaker",
+   "country": "US",
+   "birth": "1998-09-09",
+   "team": "OpTic Gaming",
+   "region": "Americas",
+   "role": "Duelist",
+   "titles": [
+    "Masters Reykjavík 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/0/03/Bleed_yay_at_VCT_Pacific_2024_Kickoff.jpg/240px-Bleed_yay_at_VCT_Pacific_2024_Kickoff.jpg",
+    "page": "https://liquipedia.net/commons/File:Bleed_yay_at_VCT_Pacific_2024_Kickoff.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Yay"
+  },
+  {
+   "id": "fns",
+   "name": "FNS",
+   "realName": "Pujan Mehta",
+   "country": "CA",
+   "birth": "1992-03-19",
+   "team": "OpTic Gaming",
+   "region": "Americas",
+   "role": "Sentinel",
+   "titles": [
+    "Masters Reykjavík 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/c/c0/NRG_FNS_at_VCT_LOCK_IN_Sao_Paolo.jpg/240px-NRG_FNS_at_VCT_LOCK_IN_Sao_Paolo.jpg",
+    "page": "https://liquipedia.net/commons/File:NRG_FNS_at_VCT_LOCK_IN_Sao_Paolo.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/FNS"
+  },
+  {
+   "id": "marved",
+   "name": "Marved",
+   "realName": "Jimmy Nguyen",
+   "country": "CA",
+   "birth": "2000-02-24",
+   "team": "OpTic Gaming",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [
+    "Masters Reykjavík 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/5/5e/SEN_Marved_at_VCT_2026_Americas_Stage_2.jpg/240px-SEN_Marved_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:SEN_Marved_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Marved"
+  },
+  {
+   "id": "crashies",
+   "name": "crashies",
+   "realName": "Austin Roberts",
+   "country": "US",
+   "birth": "1997-12-20",
+   "team": "OpTic Gaming",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [
+    "Masters Reykjavík 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/3/34/FNC_crashies_at_EMEA_Kickoff_2026.jpg/240px-FNC_crashies_at_EMEA_Kickoff_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:FNC_crashies_at_EMEA_Kickoff_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Crashies"
+  },
+  {
+   "id": "victor",
+   "name": "Victor",
+   "realName": "Victor Wong",
+   "country": "US",
+   "birth": "1996-09-14",
+   "team": "OpTic Gaming",
+   "region": "Americas",
+   "role": "Duelist",
+   "titles": [
+    "Masters Reykjavík 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/3/3c/Victor_at_the_VCT_LOCK_IN_S%C3%A3o_Paulo.jpg/240px-Victor_at_the_VCT_LOCK_IN_S%C3%A3o_Paulo.jpg",
+    "page": "https://liquipedia.net/commons/File:Victor_at_the_VCT_LOCK_IN_S%C3%A3o_Paulo.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Victor"
+  },
+  {
+   "id": "boostio",
+   "name": "Boostio",
+   "realName": "Kelden Elric Pupello",
+   "country": "US",
+   "birth": "2000-11-14",
+   "team": "Evil Geniuses",
+   "region": "Americas",
+   "role": "Sentinel",
+   "titles": [
+    "Champions 2023"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/2/21/100_Thieves_Boostio_VCT_Stage_2_Masters_Shanghai.jpg/240px-100_Thieves_Boostio_VCT_Stage_2_Masters_Shanghai.jpg",
+    "page": "https://liquipedia.net/commons/File:100_Thieves_Boostio_VCT_Stage_2_Masters_Shanghai.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Boostio"
+  },
+  {
+   "id": "c0m",
+   "name": "C0M",
+   "realName": "Corbin Daniel Lee",
+   "country": "US",
+   "birth": "2000-05-10",
+   "team": "Evil Geniuses",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [
+    "Champions 2023"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/0/0a/FUR_C0M_at_VCT_2026_Americas_Stage_2.jpg/240px-FUR_C0M_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:FUR_C0M_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/C0M"
+  },
+  {
+   "id": "jawgemo",
+   "name": "jawgemo",
+   "realName": "Alexander Mor",
+   "country": "US",
+   "birth": "1999-06-24",
+   "team": "Evil Geniuses",
+   "region": "Americas",
+   "role": "Duelist",
+   "titles": [
+    "Champions 2023"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/0/05/G2_jawgemo_at_Valorant_Champions_2026.jpg/240px-G2_jawgemo_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:G2_jawgemo_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Jawgemo"
+  },
+  {
+   "id": "demon1",
+   "name": "Demon1",
+   "realName": "Maximilian Mazanov",
+   "country": "US",
+   "birth": "2002-09-07",
+   "team": "Evil Geniuses",
+   "region": "Americas",
+   "role": "Duelist",
+   "titles": [
+    "Champions 2023"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/a/af/ENVY_Demon1_at_VCT_2026_Americas_Stage_2.jpg/240px-ENVY_Demon1_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:ENVY_Demon1_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Demon1"
+  },
+  {
+   "id": "ethan",
+   "name": "Ethan",
+   "realName": "Ethan Cole Arnold",
+   "country": "US",
+   "birth": "2000-03-02",
+   "team": "NRG",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [
+    "Champions 2023",
+    "Champions 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/1/1b/NRG_Ethan_at_Valorant_Champions_2025_Grand_Finals.jpg/240px-NRG_Ethan_at_Valorant_Champions_2025_Grand_Finals.jpg",
+    "page": "https://liquipedia.net/commons/File:NRG_Ethan_at_Valorant_Champions_2025_Grand_Finals.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Ethan"
+  },
+  {
+   "id": "s0m",
+   "name": "s0m",
+   "realName": "Sam Oh",
+   "country": "US",
+   "birth": "2002-06-07",
+   "team": "NRG",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [
+    "Champions 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/7/74/NRG_s0m_at_Valorant_Champions_2025_-_Day_5.jpeg/240px-NRG_s0m_at_Valorant_Champions_2025_-_Day_5.jpeg",
+    "page": "https://liquipedia.net/commons/File:NRG_s0m_at_Valorant_Champions_2025_-_Day_5.jpeg"
+   },
+   "source": "https://liquipedia.net/valorant/S0m"
+  },
+  {
+   "id": "brawk",
+   "name": "brawk",
+   "realName": "Brock Somerhalder",
+   "country": "US",
+   "birth": "2000-06-05",
+   "team": "NRG",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [
+    "Champions 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/f/f2/NRG_brawk_with_the_Valorant_Champions_trophy.jpg/240px-NRG_brawk_with_the_Valorant_Champions_trophy.jpg",
+    "page": "https://liquipedia.net/commons/File:NRG_brawk_with_the_Valorant_Champions_trophy.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Brawk"
+  },
+  {
+   "id": "mada",
+   "name": "mada",
+   "realName": "Adam Pampuch",
+   "country": "CA",
+   "birth": "2003-12-16",
+   "team": "NRG",
+   "region": "Americas",
+   "role": "Duelist",
+   "titles": [
+    "Champions 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/3/35/NRG_mada_at_VALORANT_Champions_2025.jpg/240px-NRG_mada_at_VALORANT_Champions_2025.jpg",
+    "page": "https://liquipedia.net/commons/File:NRG_mada_at_VALORANT_Champions_2025.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Mada"
+  },
+  {
+   "id": "skuba",
+   "name": "skuba",
+   "realName": "Logan Jenkins",
+   "country": "US",
+   "birth": "2002-12-03",
+   "team": "NRG",
+   "region": "Americas",
+   "role": "Sentinel",
+   "titles": [
+    "Champions 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/7/70/NRG_skuba_at_Valorant_Champions_Playoffs_2025.jpeg/240px-NRG_skuba_at_Valorant_Champions_Playoffs_2025.jpeg",
+    "page": "https://liquipedia.net/commons/File:NRG_skuba_at_Valorant_Champions_Playoffs_2025.jpeg"
+   },
+   "source": "https://liquipedia.net/valorant/Skuba"
+  },
+  {
+   "id": "aspas",
+   "name": "aspas",
+   "realName": "Erick Santos",
+   "country": "BR",
+   "birth": "2003-06-15",
+   "team": "LOUD",
+   "region": "Americas",
+   "role": "Duelist",
+   "titles": [
+    "Champions 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/3/3b/MIBR_aspas_at_Valorant_Champions_-_Day_3.jpg/240px-MIBR_aspas_at_Valorant_Champions_-_Day_3.jpg",
+    "page": "https://liquipedia.net/commons/File:MIBR_aspas_at_Valorant_Champions_-_Day_3.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Aspas"
+  },
+  {
+   "id": "less",
+   "name": "Less",
+   "realName": "Felipe de Loyola Basso",
+   "country": "BR",
+   "birth": "2005-02-24",
+   "team": "LOUD",
+   "region": "Americas",
+   "role": "Sentinel",
+   "titles": [
+    "Champions 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/86/KR%C3%9C_Less_at_VCT_2026_Americas_Stage_2.jpg/240px-KR%C3%9C_Less_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:KR%C3%9C_Less_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Less"
+  },
+  {
+   "id": "saadhak",
+   "name": "Saadhak",
+   "realName": "Matias Delipetro",
+   "country": "AR",
+   "birth": "1997-03-08",
+   "team": "LOUD",
+   "region": "Americas",
+   "role": "Flex",
+   "titles": [
+    "Champions 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/d/d5/KR%C3%9C_Saadhak_at_VCT_2026_Americas_Stage_2.jpg/240px-KR%C3%9C_Saadhak_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:KR%C3%9C_Saadhak_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Saadhak"
+  },
+  {
+   "id": "pancada",
+   "name": "pANcada",
+   "realName": "Bryan Vinicius Luna da Silva",
+   "country": "BR",
+   "birth": "1999-10-31",
+   "team": "LOUD",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [
+    "Champions 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/5/5e/LOUD_pANcada_at_the_VALORANT_Champions_2022.jpg/240px-LOUD_pANcada_at_the_VALORANT_Champions_2022.jpg",
+    "page": "https://liquipedia.net/commons/File:LOUD_pANcada_at_the_VALORANT_Champions_2022.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/PANcada"
+  },
+  {
+   "id": "tuyz",
+   "name": "tuyz",
+   "realName": "Arthur Vieira",
+   "country": "BR",
+   "birth": "2003-08-03",
+   "team": "LOUD",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/f/f2/FX7M_tuyz_at_VCT_2026_Americas_Stage_2.jpg/240px-FX7M_tuyz_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:FX7M_tuyz_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Tuyz"
+  },
+  {
+   "id": "cauanzin",
+   "name": "cauanzin",
+   "realName": "Cauan Pereira",
+   "country": "BR",
+   "birth": "2005-08-02",
+   "team": "LOUD",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/e/e8/Cauanzin_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg/240px-Cauanzin_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg",
+    "page": "https://liquipedia.net/commons/File:Cauanzin_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Cauanzin"
+  },
+  {
+   "id": "sacy",
+   "name": "Sacy",
+   "realName": "Gustavo Henrique Rossi da Silva",
+   "country": "BR",
+   "birth": "1997-12-02",
+   "team": "LOUD",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [
+    "Champions 2022",
+    "Masters Madrid 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/1/18/Sentinels_Sacy_at_Masters_Madrid.jpg/240px-Sentinels_Sacy_at_Masters_Madrid.jpg",
+    "page": "https://liquipedia.net/commons/File:Sentinels_Sacy_at_Masters_Madrid.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Sacy"
+  },
+  {
+   "id": "asuna",
+   "name": "Asuna",
+   "realName": "Peter Mazuryk",
+   "country": "US",
+   "birth": "2003-07-26",
+   "team": "100 Thieves",
+   "region": "Americas",
+   "role": "Duelist",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/84/100T_Asuna_at_VCT_Masters_Shanghai_2024.jpg/240px-100T_Asuna_at_VCT_Masters_Shanghai_2024.jpg",
+    "page": "https://liquipedia.net/commons/File:100T_Asuna_at_VCT_Masters_Shanghai_2024.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Asuna"
+  },
+  {
+   "id": "hiko",
+   "name": "Hiko",
+   "realName": "Spencer Martin",
+   "country": "US",
+   "birth": "1990-03-06",
+   "team": "100 Thieves",
+   "region": "Americas",
+   "role": "Sentinel",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/8e/Hiko_at_DreamHack_Open_Austin_2018.jpg/240px-Hiko_at_DreamHack_Open_Austin_2018.jpg",
+    "page": "https://liquipedia.net/commons/File:Hiko_at_DreamHack_Open_Austin_2018.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Hiko"
+  },
+  {
+   "id": "nitr0",
+   "name": "nitr0",
+   "realName": "Nicholas Cannella",
+   "country": "US",
+   "birth": "1995-08-16",
+   "team": "100 Thieves",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/e/e1/100T_Nitro_at_VCT_2021_Masters_Berlin.jpg/240px-100T_Nitro_at_VCT_2021_Masters_Berlin.jpg",
+    "page": "https://liquipedia.net/commons/File:100T_Nitro_at_VCT_2021_Masters_Berlin.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Nitr0"
+  },
+  {
+   "id": "cryocells",
+   "name": "Cryocells",
+   "realName": "Matthew Dylan Panganiban",
+   "country": "US",
+   "birth": "2002-12-22",
+   "team": "100 Thieves",
+   "region": "Americas",
+   "role": "Duelist",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/f/fc/100T_Cryocells_at_VCT_Masters_Shanghai_2024.jpg/240px-100T_Cryocells_at_VCT_Masters_Shanghai_2024.jpg",
+    "page": "https://liquipedia.net/commons/File:100T_Cryocells_at_VCT_Masters_Shanghai_2024.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Cryocells"
+  },
+  {
+   "id": "bang",
+   "name": "bang",
+   "realName": "Sean Christian Bezerra",
+   "country": "US",
+   "birth": "2004-03-13",
+   "team": "100 Thieves",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/0/02/100T_bang_at_VCT_2026_Americas_Stage_2.jpg/240px-100T_bang_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:100T_bang_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Bang"
+  },
+  {
+   "id": "leaf",
+   "name": "leaf",
+   "realName": "Nathan Orf",
+   "country": "US",
+   "birth": "2003-11-24",
+   "team": "G2 Esports",
+   "region": "Americas",
+   "role": "Sentinel",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/4/49/G2_leaf_at_Valorant_Champions_2026.jpg/240px-G2_leaf_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:G2_leaf_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Leaf"
+  },
+  {
+   "id": "trent",
+   "name": "trent",
+   "realName": "Trent Cairns",
+   "country": "US",
+   "birth": "2004-12-09",
+   "team": "G2 Esports",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/9/98/G2_trent_at_Valorant_Champions_2026.jpg/240px-G2_trent_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:G2_trent_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Trent"
+  },
+  {
+   "id": "valyn",
+   "name": "valyn",
+   "realName": "Jacob Batio",
+   "country": "US",
+   "birth": "2003-01-04",
+   "team": "G2 Esports",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/c/ce/G2_valyn_at_Valorant_Champions_2026.jpg/240px-G2_valyn_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:G2_valyn_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Valyn"
+  },
+  {
+   "id": "jonahp",
+   "name": "JonahP",
+   "realName": "Jonah Pulice",
+   "country": "CA",
+   "birth": "2000-03-31",
+   "team": "G2 Esports",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/b/b1/SEN_JonahP_at_VCT_2026_Americas_Stage_2.jpg/240px-SEN_JonahP_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:SEN_JonahP_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/JonahP"
+  },
+  {
+   "id": "xeppaa",
+   "name": "Xeppaa",
+   "realName": "Erick Bach",
+   "country": "US",
+   "birth": "2000-07-19",
+   "team": "Cloud9",
+   "region": "Americas",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/7/7e/Xeppaa_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg/240px-Xeppaa_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg",
+    "page": "https://liquipedia.net/commons/File:Xeppaa_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Xeppaa"
+  },
+  {
+   "id": "vanity",
+   "name": "vanity",
+   "realName": "Shane Anthony Malaspina",
+   "country": "US",
+   "birth": "1998-12-04",
+   "team": "Cloud9",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/7/70/Vanity_at_Red_Bull_Home_Ground_4.jpg/240px-Vanity_at_Red_Bull_Home_Ground_4.jpg",
+    "page": "https://liquipedia.net/commons/File:Vanity_at_Red_Bull_Home_Ground_4.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Vanity"
+  },
+  {
+   "id": "kingg",
+   "name": "kiNgg",
+   "realName": "Francisco Alberto Aravena",
+   "country": "CL",
+   "birth": "2001-10-23",
+   "team": "Leviatán",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [
+    "Masters London 2026"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/83/LEV_kiNgg_at_VALORANT_Masters_London_2026.jpg/240px-LEV_kiNgg_at_VALORANT_Masters_London_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:LEV_kiNgg_at_VALORANT_Masters_London_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/KiNgg"
+  },
+  {
+   "id": "mazino",
+   "name": "Mazino",
+   "realName": "Roberto Francisco Rivas Bugueño",
+   "country": "CL",
+   "birth": "2001-06-29",
+   "team": "Leviatán",
+   "region": "Americas",
+   "role": "Controller",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/0/0c/MIBR_mazino_at_VCT_2026_Americas_Stage_2.jpg/240px-MIBR_mazino_at_VCT_2026_Americas_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:MIBR_mazino_at_VCT_2026_Americas_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Mazino"
+  },
+  {
+   "id": "boaster",
+   "name": "Boaster",
+   "realName": "Jake Howlett",
+   "country": "GB",
+   "birth": "1995-05-25",
+   "team": "FNATIC",
+   "region": "EMEA",
+   "role": "Controller",
+   "titles": [
+    "LOCK//IN 2023",
+    "Masters Tokyo 2023"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/d/d0/Fnatic_Boaster_at_VALORANT_Champions_2025.jpg/240px-Fnatic_Boaster_at_VALORANT_Champions_2025.jpg",
+    "page": "https://liquipedia.net/commons/File:Fnatic_Boaster_at_VALORANT_Champions_2025.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Boaster"
+  },
+  {
+   "id": "derke",
+   "name": "Derke",
+   "realName": "Nikita Sirmitev",
+   "country": "FI",
+   "birth": "2003-02-06",
+   "team": "FNATIC",
+   "region": "EMEA",
+   "role": "Duelist",
+   "titles": [
+    "LOCK//IN 2023",
+    "Masters Tokyo 2023"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/7/7b/FNC_Derke_at_VCT_Masters_Tokyo.jpg/240px-FNC_Derke_at_VCT_Masters_Tokyo.jpg",
+    "page": "https://liquipedia.net/commons/File:FNC_Derke_at_VCT_Masters_Tokyo.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Derke"
+  },
+  {
+   "id": "chronicle",
+   "name": "Chronicle",
+   "realName": "Timofey Khromov",
+   "country": "RU",
+   "birth": "2002-08-16",
+   "team": "FNATIC",
+   "region": "EMEA",
+   "role": "Flex",
+   "titles": [
+    "Masters Berlin 2021",
+    "LOCK//IN 2023",
+    "Masters Tokyo 2023"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/d/d8/VIT_Chronicle_at_EMEA_Kickoff_2026.jpg/240px-VIT_Chronicle_at_EMEA_Kickoff_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:VIT_Chronicle_at_EMEA_Kickoff_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Chronicle"
+  },
+  {
+   "id": "alfajer",
+   "name": "Alfajer",
+   "realName": "Emir Ali Beder",
+   "country": "TR",
+   "birth": "2005-06-10",
+   "team": "FNATIC",
+   "region": "EMEA",
+   "role": "Sentinel",
+   "titles": [
+    "LOCK//IN 2023",
+    "Masters Tokyo 2023"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/b/b6/Fnatic_Alfajer_at_VALORANT_Champions_2025.jpg/240px-Fnatic_Alfajer_at_VALORANT_Champions_2025.jpg",
+    "page": "https://liquipedia.net/commons/File:Fnatic_Alfajer_at_VALORANT_Champions_2025.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Alfajer"
+  },
+  {
+   "id": "leo",
+   "name": "Leo",
+   "realName": "Leo Jannesson",
+   "country": "SE",
+   "birth": "2003-12-15",
+   "team": "FNATIC",
+   "region": "EMEA",
+   "role": "Initiator",
+   "titles": [
+    "LOCK//IN 2023",
+    "Masters Tokyo 2023"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/2/2c/FNC_Leo_at_VCT_Masters_Tokyo.jpg/240px-FNC_Leo_at_VCT_Masters_Tokyo.jpg",
+    "page": "https://liquipedia.net/commons/File:FNC_Leo_at_VCT_Masters_Tokyo.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Leo"
+  },
+  {
+   "id": "kaajak",
+   "name": "kaajak",
+   "realName": "Kajetan Haremski",
+   "country": "PL",
+   "birth": "2004-08-08",
+   "team": "FNATIC",
+   "region": "EMEA",
+   "role": "Duelist",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/1/1d/FNC_kaajak_at_Valorant_Champions_2025_against_RRQ_-_Day_3.jpg/240px-FNC_kaajak_at_Valorant_Champions_2025_against_RRQ_-_Day_3.jpg",
+    "page": "https://liquipedia.net/commons/File:FNC_kaajak_at_Valorant_Champions_2025_against_RRQ_-_Day_3.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Kaajak"
+  },
+  {
+   "id": "nats",
+   "name": "nAts",
+   "realName": "Ayaz Akhmetshin",
+   "country": "RU",
+   "birth": "2002-07-01",
+   "team": "Gambit Esports",
+   "region": "EMEA",
+   "role": "Sentinel",
+   "titles": [
+    "Masters Berlin 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/f/f1/TL_nAts_at_Valorant_Champions_2026.jpg/240px-TL_nAts_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:TL_nAts_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/NAts"
+  },
+  {
+   "id": "redgar",
+   "name": "Redgar",
+   "realName": "Igor Vlasov",
+   "country": "RU",
+   "birth": "1997-10-17",
+   "team": "Gambit Esports",
+   "region": "EMEA",
+   "role": "Initiator",
+   "titles": [
+    "Masters Berlin 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/b/b7/GIANTX_Redgar_at_VCT_2024_EMEA_Kickoff.jpg/240px-GIANTX_Redgar_at_VCT_2024_EMEA_Kickoff.jpg",
+    "page": "https://liquipedia.net/commons/File:GIANTX_Redgar_at_VCT_2024_EMEA_Kickoff.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Redgar"
+  },
+  {
+   "id": "sheydos",
+   "name": "Sheydos",
+   "realName": "Bogdan Naumov",
+   "country": "RU",
+   "birth": "2001-10-01",
+   "team": "Gambit Esports",
+   "region": "EMEA",
+   "role": "Flex",
+   "titles": [
+    "Masters Berlin 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/a/ad/Sheydos_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg/240px-Sheydos_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg",
+    "page": "https://liquipedia.net/commons/File:Sheydos_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Sheydos"
+  },
+  {
+   "id": "d3ffo",
+   "name": "d3ffo",
+   "realName": "Nikita Sudakov",
+   "country": "RU",
+   "birth": "2001-10-10",
+   "team": "Gambit Esports",
+   "region": "EMEA",
+   "role": "Duelist",
+   "titles": [
+    "Masters Berlin 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/84/Gambit_d3ffo.jpg/240px-Gambit_d3ffo.jpg",
+    "page": "https://liquipedia.net/commons/File:Gambit_d3ffo.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/D3ffo"
+  },
+  {
+   "id": "cned",
+   "name": "cNed",
+   "realName": "Mehmet Yağız İpek",
+   "country": "TR",
+   "birth": "2002-01-18",
+   "team": "Acend",
+   "region": "EMEA",
+   "role": "Duelist",
+   "titles": [
+    "Champions 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/4/48/PCF_cNed_at_EMEA_Kickoff_2026.jpg/240px-PCF_cNed_at_EMEA_Kickoff_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:PCF_cNed_at_EMEA_Kickoff_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/CNed"
+  },
+  {
+   "id": "starxo",
+   "name": "starxo",
+   "realName": "Patryk Kopczyński",
+   "country": "PL",
+   "birth": "2001-08-28",
+   "team": "Acend",
+   "region": "EMEA",
+   "role": "Initiator",
+   "titles": [
+    "Champions 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/2/20/M8_starxo_at_VCT_2026_EMEA_Stage_2.jpg/240px-M8_starxo_at_VCT_2026_EMEA_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:M8_starxo_at_VCT_2026_EMEA_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Starxo"
+  },
+  {
+   "id": "zeek",
+   "name": "zeek",
+   "realName": "Aleksander Zygmunt",
+   "country": "PL",
+   "birth": "2001-09-11",
+   "team": "Acend",
+   "region": "EMEA",
+   "role": "Flex",
+   "titles": [
+    "Champions 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/8b/ENTERPRISE_zeek_at_VCT_Ascension_EMEA_2025.jpg/240px-ENTERPRISE_zeek_at_VCT_Ascension_EMEA_2025.jpg",
+    "page": "https://liquipedia.net/commons/File:ENTERPRISE_zeek_at_VCT_Ascension_EMEA_2025.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Zeek"
+  },
+  {
+   "id": "bonecold",
+   "name": "BONECOLD",
+   "realName": "Santeri Heikki Juhani Sassi",
+   "country": "FI",
+   "birth": "1998-10-13",
+   "team": "Acend",
+   "region": "EMEA",
+   "role": "Controller",
+   "titles": [
+    "Champions 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/b/bc/Acend_Santeri_%22BONECOLD%22_Sassi_at_Valorant_Champions_2021_with_trophy.jpg/240px-Acend_Santeri_%22BONECOLD%22_Sassi_at_Valorant_Champions_2021_with_trophy.jpg",
+    "page": "https://liquipedia.net/commons/File:Acend_Santeri_%22BONECOLD%22_Sassi_at_Valorant_Champions_2021_with_trophy.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/BONECOLD"
+  },
+  {
+   "id": "kiles",
+   "name": "Kiles",
+   "realName": "Vladyslav Shvets",
+   "country": "UA",
+   "birth": "1997-08-26",
+   "team": "Acend",
+   "region": "EMEA",
+   "role": "Controller",
+   "titles": [
+    "Champions 2021"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/8a/Enterprise_Esports_Kiles.jpg/240px-Enterprise_Esports_Kiles.jpg",
+    "page": "https://liquipedia.net/commons/File:Enterprise_Esports_Kiles.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Kiles"
+  },
+  {
+   "id": "ange1",
+   "name": "ANGE1",
+   "realName": "Kyrylo Karasov",
+   "country": "UA",
+   "birth": "1989-09-10",
+   "team": "FunPlus Phoenix",
+   "region": "EMEA",
+   "role": "Controller",
+   "titles": [
+    "Masters Copenhagen 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/1/18/NAVI_ANGE1_at_VCT_EMEA_Kickoff_2025.jpg/240px-NAVI_ANGE1_at_VCT_EMEA_Kickoff_2025.jpg",
+    "page": "https://liquipedia.net/commons/File:NAVI_ANGE1_at_VCT_EMEA_Kickoff_2025.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/ANGE1"
+  },
+  {
+   "id": "shao",
+   "name": "Shao",
+   "realName": "Andrei Kiprskii",
+   "country": "RU",
+   "birth": "2000-01-27",
+   "team": "FunPlus Phoenix",
+   "region": "EMEA",
+   "role": "Initiator",
+   "titles": [
+    "Masters Copenhagen 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/4/4f/NAVI_Shao_at_VCT_EMEA_Kickoff_2025.jpg/240px-NAVI_Shao_at_VCT_EMEA_Kickoff_2025.jpg",
+    "page": "https://liquipedia.net/commons/File:NAVI_Shao_at_VCT_EMEA_Kickoff_2025.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Shao"
+  },
+  {
+   "id": "suygetsu",
+   "name": "SUYGETSU",
+   "realName": "Dmitrii Iliushin",
+   "country": "RU",
+   "birth": "2002-07-16",
+   "team": "FunPlus Phoenix",
+   "region": "EMEA",
+   "role": "Sentinel",
+   "titles": [
+    "Masters Copenhagen 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/9/98/KC_suygetsu_at_VCT_EMEA_2025_Stage_1.jpg/240px-KC_suygetsu_at_VCT_EMEA_2025_Stage_1.jpg",
+    "page": "https://liquipedia.net/commons/File:KC_suygetsu_at_VCT_EMEA_2025_Stage_1.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/SUYGETSU"
+  },
+  {
+   "id": "zyppan",
+   "name": "Zyppan",
+   "realName": "Pontus Eek",
+   "country": "SE",
+   "birth": "2002-07-17",
+   "team": "FunPlus Phoenix",
+   "region": "EMEA",
+   "role": "Flex",
+   "titles": [
+    "Masters Copenhagen 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/b/b5/M8_Zyppan_at_VCT_EMEA_Kickoff_2025.jpg/240px-M8_Zyppan_at_VCT_EMEA_Kickoff_2025.jpg",
+    "page": "https://liquipedia.net/commons/File:M8_Zyppan_at_VCT_EMEA_Kickoff_2025.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Zyppan"
+  },
+  {
+   "id": "ardiis",
+   "name": "ardiis",
+   "realName": "Ardis Svarenieks",
+   "country": "LV",
+   "birth": "1998-05-01",
+   "team": "FunPlus Phoenix",
+   "region": "EMEA",
+   "role": "Duelist",
+   "titles": [
+    "Masters Copenhagen 2022"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/3/34/NAVI_ardiis_at_the_VCT_2024_EMEA_Stage_2.jpg/240px-NAVI_ardiis_at_the_VCT_2024_EMEA_Stage_2.jpg",
+    "page": "https://liquipedia.net/commons/File:NAVI_ardiis_at_the_VCT_2024_EMEA_Stage_2.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Ardiis"
+  },
+  {
+   "id": "scream",
+   "name": "ScreaM",
+   "realName": "Adil Benrlitom",
+   "country": "BE",
+   "birth": "1994-07-02",
+   "team": "Team Liquid",
+   "region": "EMEA",
+   "role": "Duelist",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/6/65/ScreaM_at_the_Masters_Reykjav%C3%ADk_2022.jpg/240px-ScreaM_at_the_Masters_Reykjav%C3%ADk_2022.jpg",
+    "page": "https://liquipedia.net/commons/File:ScreaM_at_the_Masters_Reykjav%C3%ADk_2022.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/ScreaM"
+  },
+  {
+   "id": "nivera",
+   "name": "Nivera",
+   "realName": "Nabil Benrlitom",
+   "country": "BE",
+   "birth": "2001-06-10",
+   "team": "Team Liquid",
+   "region": "EMEA",
+   "role": "Sentinel",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/9/97/Nivera_at_the_Masters_Reykjav%C3%ADk_2022.jpg/240px-Nivera_at_the_Masters_Reykjav%C3%ADk_2022.jpg",
+    "page": "https://liquipedia.net/commons/File:Nivera_at_the_Masters_Reykjav%C3%ADk_2022.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Nivera"
+  },
+  {
+   "id": "jamppi",
+   "name": "Jamppi",
+   "realName": "Elias Olkkonen",
+   "country": "FI",
+   "birth": "2001-07-22",
+   "team": "Team Liquid",
+   "region": "EMEA",
+   "role": "Flex",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/c/cc/Liquid_Jamppi_winning_VCT_EMEA_2023.jpg/240px-Liquid_Jamppi_winning_VCT_EMEA_2023.jpg",
+    "page": "https://liquipedia.net/commons/File:Liquid_Jamppi_winning_VCT_EMEA_2023.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Jamppi"
+  },
+  {
+   "id": "soulcas",
+   "name": "soulcas",
+   "realName": "Dom Sulcas",
+   "country": "GB",
+   "birth": "2000-01-02",
+   "team": "Team Liquid",
+   "region": "EMEA",
+   "role": "Controller",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/6/64/APK_soulcas_at_VCT_Ascension_EMEA_2024.jpg/240px-APK_soulcas_at_VCT_Ascension_EMEA_2024.jpg",
+    "page": "https://liquipedia.net/commons/File:APK_soulcas_at_VCT_Ascension_EMEA_2024.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Soulcas"
+  },
+  {
+   "id": "l1nk",
+   "name": "L1NK",
+   "realName": "Travis Mendoza",
+   "country": "GB",
+   "birth": "1998-08-08",
+   "team": "Team Liquid",
+   "region": "EMEA",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/84/L1NK_at_the_Masters_Reykjav%C3%ADk_2022.jpg/240px-L1NK_at_the_Masters_Reykjav%C3%ADk_2022.jpg",
+    "page": "https://liquipedia.net/commons/File:L1NK_at_the_Masters_Reykjav%C3%ADk_2022.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/L1NK"
+  },
+  {
+   "id": "boo",
+   "name": "Boo",
+   "realName": "Ričardas Lukaševičius",
+   "country": "LT",
+   "birth": "1997-12-02",
+   "team": "Team Heretics",
+   "region": "EMEA",
+   "role": "Controller",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/4/4a/TH_Boo_at_Valorant_Champions_2025_-Day_6.jpg/240px-TH_Boo_at_Valorant_Champions_2025_-Day_6.jpg",
+    "page": "https://liquipedia.net/commons/File:TH_Boo_at_Valorant_Champions_2025_-Day_6.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Boo"
+  },
+  {
+   "id": "miniboo",
+   "name": "MiniBoo",
+   "realName": "Dominykas Lukaševičius",
+   "country": "LT",
+   "birth": "2005-07-11",
+   "team": "Team Heretics",
+   "region": "EMEA",
+   "role": "Duelist",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/b/b8/Liquid_MiniBoo_at_VCT_EMEA_2026_Kickoff.jpg/240px-Liquid_MiniBoo_at_VCT_EMEA_2026_Kickoff.jpg",
+    "page": "https://liquipedia.net/commons/File:Liquid_MiniBoo_at_VCT_EMEA_2026_Kickoff.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/MiniBoo"
+  },
+  {
+   "id": "riens",
+   "name": "RieNs",
+   "realName": "Enes Ecirli",
+   "country": "TR",
+   "birth": "2005-05-20",
+   "team": "Team Heretics",
+   "region": "EMEA",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/a/ae/Team_Heretics_RieNs_at_Masters_Madrid.jpg/240px-Team_Heretics_RieNs_at_Masters_Madrid.jpg",
+    "page": "https://liquipedia.net/commons/File:Team_Heretics_RieNs_at_Masters_Madrid.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/RieNs"
+  },
+  {
+   "id": "benjyfishy",
+   "name": "benjyfishy",
+   "realName": "Benjy David Fish",
+   "country": "GB",
+   "birth": "2004-04-02",
+   "team": "Team Heretics",
+   "region": "EMEA",
+   "role": "Sentinel",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/5/57/TH_benjyfishy_at_EMEA_Kickoff_2026.jpg/240px-TH_benjyfishy_at_EMEA_Kickoff_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:TH_benjyfishy_at_EMEA_Kickoff_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Benjyfishy"
+  },
+  {
+   "id": "wo0t",
+   "name": "Wo0t",
+   "realName": "Mert Alkan",
+   "country": "TR",
+   "birth": "2006-03-16",
+   "team": "Team Heretics",
+   "region": "EMEA",
+   "role": "Duelist",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/2/27/Team_Heretics_Wo0t_at_VCT_2024_EMEA_Stage_1.jpg/240px-Team_Heretics_Wo0t_at_VCT_2024_EMEA_Stage_1.jpg",
+    "page": "https://liquipedia.net/commons/File:Team_Heretics_Wo0t_at_VCT_2024_EMEA_Stage_1.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Wo0t"
+  },
+  {
+   "id": "f0rsaken",
+   "name": "f0rsakeN",
+   "realName": "Jason Susanto",
+   "country": "ID",
+   "birth": "2004-03-25",
+   "team": "Paper Rex",
+   "region": "Pacific",
+   "role": "Flex",
+   "titles": [
+    "Masters Toronto 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/a/a1/PRX_f0rsakeN_at_Valorant_Champions_2026.jpg/240px-PRX_f0rsakeN_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:PRX_f0rsakeN_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/F0rsakeN"
+  },
+  {
+   "id": "jinggg",
+   "name": "Jinggg",
+   "realName": "Wang Jing Jie",
+   "country": "SG",
+   "birth": "2003-07-29",
+   "team": "Paper Rex",
+   "region": "Pacific",
+   "role": "Duelist",
+   "titles": [
+    "Masters Toronto 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/d/d9/PRX_Jinggg_at_Valorant_Champions_2026.jpg/240px-PRX_Jinggg_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:PRX_Jinggg_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Jinggg"
+  },
+  {
+   "id": "d4v41",
+   "name": "d4v41",
+   "realName": "Ahmad Khalish Rusyaidee bin Nordin",
+   "country": "MY",
+   "birth": "1998-10-14",
+   "team": "Paper Rex",
+   "region": "Pacific",
+   "role": "Flex",
+   "titles": [
+    "Masters Toronto 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/d/d6/PRX_d4v41_at_Valorant_Champions_2026.jpg/240px-PRX_d4v41_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:PRX_d4v41_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/D4v41"
+  },
+  {
+   "id": "something",
+   "name": "something",
+   "realName": "Ilia Petrov",
+   "country": "RU",
+   "birth": "2002-02-11",
+   "team": "Paper Rex",
+   "region": "Pacific",
+   "role": "Duelist",
+   "titles": [
+    "Masters Toronto 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/81/PRX_something_at_Valorant_Champions_2026.jpg/240px-PRX_something_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:PRX_something_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Something"
+  },
+  {
+   "id": "mindfreak",
+   "name": "mindfreak",
+   "realName": "Alessandro Aaron Leonhart",
+   "country": "ID",
+   "birth": "1999-10-04",
+   "team": "Paper Rex",
+   "region": "Pacific",
+   "role": "Controller",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/1/1a/PRX_mindfreak_at_VCT_Pacific_2024_Kickoff.jpg/240px-PRX_mindfreak_at_VCT_Pacific_2024_Kickoff.jpg",
+    "page": "https://liquipedia.net/commons/File:PRX_mindfreak_at_VCT_Pacific_2024_Kickoff.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Mindfreak_(Indonesian_player)"
+  },
+  {
+   "id": "benkai",
+   "name": "Benkai",
+   "realName": "Benedict Tan Tze Yang",
+   "country": "SG",
+   "birth": "1996-11-10",
+   "team": "Paper Rex",
+   "region": "Pacific",
+   "role": "Sentinel",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/b/b6/GE_Benkai_at_VCT_Pacific_2024_Kickoff.jpg/240px-GE_Benkai_at_VCT_Pacific_2024_Kickoff.jpg",
+    "page": "https://liquipedia.net/commons/File:GE_Benkai_at_VCT_Pacific_2024_Kickoff.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Benkai"
+  },
+  {
+   "id": "patmen",
+   "name": "PatMen",
+   "realName": "Jhon Patrick Ramos Mendoza",
+   "country": "PH",
+   "birth": "2001-12-05",
+   "team": "Paper Rex",
+   "region": "Pacific",
+   "role": "Flex",
+   "titles": [
+    "Masters Toronto 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/7/79/PRX_PatMen_at_Valorant_Champions_2025.jpg/240px-PRX_PatMen_at_Valorant_Champions_2025.jpg",
+    "page": "https://liquipedia.net/commons/File:PRX_PatMen_at_Valorant_Champions_2025.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/PatMen"
+  },
+  {
+   "id": "stax",
+   "name": "stax",
+   "realName": "Kim Gu-taek",
+   "country": "KR",
+   "birth": "2000-02-16",
+   "team": "DRX",
+   "region": "Pacific",
+   "role": "Initiator",
+   "titles": [
+    "Masters Bangkok 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/5/56/T1_stax_at_Valorant_Champions_2026.jpg/240px-T1_stax_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:T1_stax_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Stax"
+  },
+  {
+   "id": "buzz",
+   "name": "BuZz",
+   "realName": "Yu Byung-chul",
+   "country": "KR",
+   "birth": "2003-01-13",
+   "team": "DRX",
+   "region": "Pacific",
+   "role": "Duelist",
+   "titles": [
+    "Masters Bangkok 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/9/93/DRX_BuZz_at_the_VCT_Stage_2_Masters_Copenhagen.jpg/240px-DRX_BuZz_at_the_VCT_Stage_2_Masters_Copenhagen.jpg",
+    "page": "https://liquipedia.net/commons/File:DRX_BuZz_at_the_VCT_Stage_2_Masters_Copenhagen.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/BuZz"
+  },
+  {
+   "id": "rb",
+   "name": "Rb",
+   "realName": "Goo Sang-min",
+   "country": "KR",
+   "birth": "2001-12-07",
+   "team": "DRX",
+   "region": "Pacific",
+   "role": "Flex",
+   "titles": [
+    "Masters Santiago 2026"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/e/ef/NS_Rb_at_Valorant_Champions_2026.jpg/240px-NS_Rb_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:NS_Rb_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Rb"
+  },
+  {
+   "id": "mako",
+   "name": "MaKo",
+   "realName": "Kim Myeong-kwan",
+   "country": "KR",
+   "birth": "2002-01-15",
+   "team": "DRX",
+   "region": "Pacific",
+   "role": "Controller",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/5/59/DRX_MaKo_at_the_VALORANT_Champions_2024.jpg/240px-DRX_MaKo_at_the_VALORANT_Champions_2024.jpg",
+    "page": "https://liquipedia.net/commons/File:DRX_MaKo_at_the_VALORANT_Champions_2024.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/MaKo"
+  },
+  {
+   "id": "zest",
+   "name": "Zest",
+   "realName": "Kim Gi-seok",
+   "country": "KR",
+   "birth": "2000-12-27",
+   "team": "DRX",
+   "region": "Pacific",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/6/67/Bleed_Zest_at_VCT_2024_Pacific_Stage_1.jpg/240px-Bleed_Zest_at_VCT_2024_Pacific_Stage_1.jpg",
+    "page": "https://liquipedia.net/commons/File:Bleed_Zest_at_VCT_2024_Pacific_Stage_1.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Zest"
+  },
+  {
+   "id": "foxy9",
+   "name": "Foxy9",
+   "realName": "Jung Jae-sung",
+   "country": "KR",
+   "birth": "2004-11-20",
+   "team": "DRX",
+   "region": "Pacific",
+   "role": "Duelist",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/7/7a/DRX_foxy9_at_VCT-_Masters_Tokyo.jpg/240px-DRX_foxy9_at_VCT-_Masters_Tokyo.jpg",
+    "page": "https://liquipedia.net/commons/File:DRX_foxy9_at_VCT-_Masters_Tokyo.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Foxy9"
+  },
+  {
+   "id": "meteor",
+   "name": "Meteor",
+   "realName": "Kim Tae-oh",
+   "country": "KR",
+   "birth": "1999-12-19",
+   "team": "Gen.G",
+   "region": "Pacific",
+   "role": "Sentinel",
+   "titles": [
+    "Masters Shanghai 2024",
+    "Masters Bangkok 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/7/79/T1_Meteor_at_Valorant_Champions_2025.jpg/240px-T1_Meteor_at_Valorant_Champions_2025.jpg",
+    "page": "https://liquipedia.net/commons/File:T1_Meteor_at_Valorant_Champions_2025.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Meteor"
+  },
+  {
+   "id": "t3xture",
+   "name": "t3xture",
+   "realName": "Kim Na-ra",
+   "country": "KR",
+   "birth": "1999-07-20",
+   "team": "Gen.G",
+   "region": "Pacific",
+   "role": "Duelist",
+   "titles": [
+    "Masters Shanghai 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/6/62/GenG_t3xture_at_VCT_Pacific_2024_Kickoff.jpg/240px-GenG_t3xture_at_VCT_Pacific_2024_Kickoff.jpg",
+    "page": "https://liquipedia.net/commons/File:GenG_t3xture_at_VCT_Pacific_2024_Kickoff.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/T3xture"
+  },
+  {
+   "id": "munchkin",
+   "name": "Munchkin",
+   "realName": "Byeon Sang-beom",
+   "country": "KR",
+   "birth": "1998-03-27",
+   "team": "Gen.G",
+   "region": "Pacific",
+   "role": "Initiator",
+   "titles": [
+    "Masters Shanghai 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/c/c9/GenG_Munchkin_at_VCT_Pacific_2024_Kickoff.jpg/240px-GenG_Munchkin_at_VCT_Pacific_2024_Kickoff.jpg",
+    "page": "https://liquipedia.net/commons/File:GenG_Munchkin_at_VCT_Pacific_2024_Kickoff.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Munchkin"
+  },
+  {
+   "id": "lakia",
+   "name": "Lakia",
+   "realName": "Kim Jong-min",
+   "country": "KR",
+   "birth": "2000-12-24",
+   "team": "Gen.G",
+   "region": "Pacific",
+   "role": "Initiator",
+   "titles": [
+    "Masters Shanghai 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/8f/GenG_Lakia_at_VCT_Pacific_2024_Kickoff.jpg/240px-GenG_Lakia_at_VCT_Pacific_2024_Kickoff.jpg",
+    "page": "https://liquipedia.net/commons/File:GenG_Lakia_at_VCT_Pacific_2024_Kickoff.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Lakia"
+  },
+  {
+   "id": "karon",
+   "name": "Karon",
+   "realName": "Kim Won-tae",
+   "country": "KR",
+   "birth": "2002-10-21",
+   "team": "Gen.G",
+   "region": "Pacific",
+   "role": "Controller",
+   "titles": [
+    "Masters Shanghai 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/3/3e/GenG_Karon_at_VCT_Pacific_2024_Kickoff.jpg/240px-GenG_Karon_at_VCT_Pacific_2024_Kickoff.jpg",
+    "page": "https://liquipedia.net/commons/File:GenG_Karon_at_VCT_Pacific_2024_Kickoff.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Karon"
+  },
+  {
+   "id": "izu",
+   "name": "iZu",
+   "realName": "Ham Woo-Joo",
+   "country": "KR",
+   "birth": "2004-09-23",
+   "team": "T1",
+   "region": "Pacific",
+   "role": "Duelist",
+   "titles": [
+    "Masters Bangkok 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/5/5b/T1_iZu_at_Valorant_Champions_2026.jpg/240px-T1_iZu_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:T1_iZu_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/IZu"
+  },
+  {
+   "id": "sylvan",
+   "name": "Sylvan",
+   "realName": "Ko Young-sub",
+   "country": "KR",
+   "birth": "2001-10-04",
+   "team": "T1",
+   "region": "Pacific",
+   "role": "Controller",
+   "titles": [
+    "Masters Bangkok 2025"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/5/5e/GenG_Sylvan_at_VCT_Pacific_League_2023.jpg/240px-GenG_Sylvan_at_VCT_Pacific_League_2023.jpg",
+    "page": "https://liquipedia.net/commons/File:GenG_Sylvan_at_VCT_Pacific_League_2023.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Sylvan"
+  },
+  {
+   "id": "laz",
+   "name": "Laz",
+   "realName": "Koji Ushida",
+   "country": "JP",
+   "birth": "1995-11-26",
+   "team": "ZETA DIVISION",
+   "region": "Pacific",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/a/a1/2c_Laz_at_VALORANT_Challengers_Japan_2026_Season_Finals.jpg/240px-2c_Laz_at_VALORANT_Challengers_Japan_2026_Season_Finals.jpg",
+    "page": "https://liquipedia.net/commons/File:2c_Laz_at_VALORANT_Challengers_Japan_2026_Season_Finals.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Laz"
+  },
+  {
+   "id": "crow",
+   "name": "crow",
+   "realName": "Tomoaki Maruoka",
+   "country": "JP",
+   "birth": "1997-11-28",
+   "team": "ZETA DIVISION",
+   "region": "Pacific",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/f/f4/ZETA_crow_at_VCL_Japan_2025_Season_Finals.jpg/240px-ZETA_crow_at_VCL_Japan_2025_Season_Finals.jpg",
+    "page": "https://liquipedia.net/commons/File:ZETA_crow_at_VCL_Japan_2025_Season_Finals.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Crow"
+  },
+  {
+   "id": "dep",
+   "name": "Dep",
+   "realName": "Yuma Hashimoto",
+   "country": "JP",
+   "birth": "2000-12-04",
+   "team": "ZETA DIVISION",
+   "region": "Pacific",
+   "role": "Duelist",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/4/47/RC_Dep_at_VALORANT_Challengers_Japan_2026_Season_Finals.jpg/240px-RC_Dep_at_VALORANT_Challengers_Japan_2026_Season_Finals.jpg",
+    "page": "https://liquipedia.net/commons/File:RC_Dep_at_VALORANT_Challengers_Japan_2026_Season_Finals.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Dep"
+  },
+  {
+   "id": "sugarz3ro",
+   "name": "SugarZ3ro",
+   "realName": "Shota Watanabe",
+   "country": "JP",
+   "birth": "2003-03-18",
+   "team": "ZETA DIVISION",
+   "region": "Pacific",
+   "role": "Controller",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/8/82/ZETA_SugarZ3ro_at_VCT_Pacific_2026_Kickoff.jpg/240px-ZETA_SugarZ3ro_at_VCT_Pacific_2026_Kickoff.jpg",
+    "page": "https://liquipedia.net/commons/File:ZETA_SugarZ3ro_at_VCT_Pacific_2026_Kickoff.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/SugarZ3ro"
+  },
+  {
+   "id": "tennn",
+   "name": "TENNN",
+   "realName": "Tenta Asai",
+   "country": "JP",
+   "birth": "2001-10-19",
+   "team": "ZETA DIVISION",
+   "region": "Pacific",
+   "role": "Sentinel",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/1/1f/MRG_TENNN.jpeg/240px-MRG_TENNN.jpeg",
+    "page": "https://liquipedia.net/commons/File:MRG_TENNN.jpeg"
+   },
+   "source": "https://liquipedia.net/valorant/TENNN"
+  },
+  {
+   "id": "invy",
+   "name": "invy",
+   "realName": "Adrian Jiggs Aisa Reyes",
+   "country": "PH",
+   "birth": "2004-07-08",
+   "team": "Team Secret",
+   "region": "Pacific",
+   "role": "Duelist",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/2/2c/PRX_invy_at_Valorant_Champions_2026.jpg/240px-PRX_invy_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:PRX_invy_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Invy"
+  },
+  {
+   "id": "jessievash",
+   "name": "JessieVash",
+   "realName": "Jessie Cristy Angeles Cuyco",
+   "country": "PH",
+   "birth": "1990-02-21",
+   "team": "Team Secret",
+   "region": "Pacific",
+   "role": "Initiator",
+   "titles": [],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/3/3c/JessieVash_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg/240px-JessieVash_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg",
+    "page": "https://liquipedia.net/commons/File:JessieVash_at_the_VCT_2023_LOCKIN_S%C3%A3o_Paulo.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/JessieVash"
+  },
+  {
+   "id": "dambi",
+   "name": "Dambi",
+   "realName": "Lee Hyuk-kyu",
+   "country": "KR",
+   "birth": "2006-06-22",
+   "team": "Nongshim RedForce",
+   "region": "Pacific",
+   "role": "Duelist",
+   "titles": [
+    "Masters Santiago 2026"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/6/65/NS_Dambi_at_Valorant_Champions_2026.jpg/240px-NS_Dambi_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:NS_Dambi_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Dambi"
+  },
+  {
+   "id": "francis",
+   "name": "Francis",
+   "realName": "Kim Mu-bin",
+   "country": "KR",
+   "birth": "2006-07-31",
+   "team": "Nongshim RedForce",
+   "region": "Pacific",
+   "role": "Duelist",
+   "titles": [
+    "Masters Santiago 2026"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/0/0c/NS_Francis_at_Valorant_Champions_2026.jpg/240px-NS_Francis_at_Valorant_Champions_2026.jpg",
+    "page": "https://liquipedia.net/commons/File:NS_Francis_at_Valorant_Champions_2026.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Francis"
+  },
+  {
+   "id": "zmjjkk",
+   "name": "ZmjjKK",
+   "realName": "Zheng Yongkang",
+   "country": "CN",
+   "birth": "2004-03-03",
+   "team": "EDward Gaming",
+   "region": "China",
+   "role": "Duelist",
+   "titles": [
+    "Champions 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/1/1c/EDG_ZmjjKK_at_VALORANT_Champions_2024.jpg/240px-EDG_ZmjjKK_at_VALORANT_Champions_2024.jpg",
+    "page": "https://liquipedia.net/commons/File:EDG_ZmjjKK_at_VALORANT_Champions_2024.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/ZmjjKK"
+  },
+  {
+   "id": "chichoo",
+   "name": "CHICHOO",
+   "realName": "Wan Shunzhi",
+   "country": "CN",
+   "birth": "2003-11-27",
+   "team": "EDward Gaming",
+   "region": "China",
+   "role": "Controller",
+   "titles": [
+    "Champions 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/2/21/EDG_CHICHOO_at_Champions_2024.jpg/240px-EDG_CHICHOO_at_Champions_2024.jpg",
+    "page": "https://liquipedia.net/commons/File:EDG_CHICHOO_at_Champions_2024.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/CHICHOO"
+  },
+  {
+   "id": "nobody",
+   "name": "nobody",
+   "realName": "Wang Senxu",
+   "country": "CN",
+   "birth": "2002-12-05",
+   "team": "EDward Gaming",
+   "region": "China",
+   "role": "Initiator",
+   "titles": [
+    "Champions 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/7/74/Nobody_winning_Champions_2024.jpg/240px-Nobody_winning_Champions_2024.jpg",
+    "page": "https://liquipedia.net/commons/File:Nobody_winning_Champions_2024.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Nobody"
+  },
+  {
+   "id": "smoggy",
+   "name": "Smoggy",
+   "realName": "Zhang Zhao",
+   "country": "CN",
+   "birth": "2002-06-08",
+   "team": "EDward Gaming",
+   "region": "China",
+   "role": "Flex",
+   "titles": [
+    "Champions 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/e/ef/EDG_Smoggy_winning_Champions_2024.jpg/240px-EDG_Smoggy_winning_Champions_2024.jpg",
+    "page": "https://liquipedia.net/commons/File:EDG_Smoggy_winning_Champions_2024.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/Smoggy"
+  },
+  {
+   "id": "s1mon",
+   "name": "S1Mon",
+   "realName": "Hsieh Meng-hsun",
+   "country": "TW",
+   "birth": "2004-06-25",
+   "team": "EDward Gaming",
+   "region": "China",
+   "role": "Initiator",
+   "titles": [
+    "Champions 2024"
+   ],
+   "image": {
+    "src": "https://liquipedia.net/commons/images/thumb/b/ba/EDG_S1Mon_at_VALORANT_Champions_2024.jpg/240px-EDG_S1Mon_at_VALORANT_Champions_2024.jpg",
+    "page": "https://liquipedia.net/commons/File:EDG_S1Mon_at_VALORANT_Champions_2024.jpg"
+   },
+   "source": "https://liquipedia.net/valorant/S1Mon"
+  }
+ ]
+}
