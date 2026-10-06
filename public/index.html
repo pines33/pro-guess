@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#ece8e1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0f1923" media="(prefers-color-scheme: dark)">
+  <title>Pro Guess</title>
+  <meta name="description" content="Guess the Valorant pro – a Wordle-style game for one or two players.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23ff4655'/><text x='50' y='72' font-size='64' text-anchor='middle' fill='white' font-family='Arial' font-weight='bold'>?</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@600;700&family=Noto+Color+Emoji&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1 class="logo"><span class="logo-mark">?</span> Pro Guess</h1>
+    <div class="topbar-right">
+      <button id="roomChip" class="chip" hidden title="Copy invite link"></button>
+      <span id="conn" class="conn" title="Connection"></span>
+    </div>
+  </header>
+
+  <div id="banner" class="banner" hidden></div>
+
+  <!-- START -->
+  <main id="screen-start" class="screen narrow" hidden>
+    <section class="card">
+      <h2>Guess the Valorant pro</h2>
+      <p class="muted">Every guess reveals clues – nationality, region, team, role, age and international titles. Green is a match, yellow is close.</p>
+      <label class="field">
+        <span>Your name</span>
+        <input id="nameInput" maxlength="20" autocomplete="nickname" placeholder="e.g. Player 1">
+      </label>
+      <div class="start-btns">
+        <button id="createBtn" class="btn primary">Play vs a friend</button>
+        <button id="soloBtn" class="btn">Practice solo</button>
+      </div>
+      <div class="divider"><span>or join a room</span></div>
+      <form id="joinForm" class="join-row">
+        <input id="codeInput" maxlength="4" autocapitalize="characters" autocomplete="off" spellcheck="false"
+               placeholder="CODE" aria-label="Room code">
+        <button class="btn" type="submit">Join</button>
+      </form>
+      <p id="startError" class="error" role="alert"></p>
+    </section>
+    <details class="card rules">
+      <summary>How to play</summary>
+      <ul>
+        <li><b>Vs a friend:</b> you each pick a secret pro, then take turns guessing the other one's player. First to guess right wins.</li>
+        <li><b>Solo:</b> the server picks a random pro – find them in as few guesses as possible.</li>
+        <li><b class="c-hit">Green</b> = same value. <b class="c-near">Yellow</b> = close: age within 2 years, titles within 1, or one of you is a Flex player.</li>
+        <li><b>↑ / ↓</b> = the secret player's age or title count is higher / lower.</li>
+        <li>Titles = international trophies (Masters &amp; Champions).</li>
+      </ul>
+    </details>
+  </main>
+
+  <!-- LOBBY -->
+  <main id="screen-lobby" class="screen narrow" hidden>
+    <section class="card center">
+      <p class="muted">Room code</p>
+      <div id="lobbyCode" class="bigcode"></div>
+      <p class="muted">Send your friend the link or the code.</p>
+      <div class="share-row">
+        <input id="shareLink" readonly aria-label="Invite link">
+        <button id="copyBtn" class="btn">Copy</button>
+      </div>
+      <button id="shareBtn" class="btn primary block" hidden>Share link…</button>
+      <p class="waiting"><span class="dots"></span> Waiting for an opponent</p>
+      <button class="btn ghost leaveBtn">Leave room</button>
+    </section>
+  </main>
+
+  <!-- GAME -->
+  <main id="screen-board" class="screen board" hidden>
+    <section class="board-main">
+      <div class="statusbar">
+        <div>
+          <div id="statusText" class="status-text"></div>
+          <div id="statusSub" class="muted small"></div>
+        </div>
+        <div id="mySecret" class="secret-chip" hidden></div>
+      </div>
+
+      <div class="search card">
+        <div class="search-row">
+          <div class="search-box">
+            <input id="search" type="search" autocomplete="off" spellcheck="false" placeholder="Search pros, teams…"
+                   role="combobox" aria-expanded="false" aria-controls="suggest" aria-autocomplete="list">
+            <ul id="suggest" class="suggest" role="listbox" hidden></ul>
+          </div>
+          <button id="randomBtn" class="btn" title="Pick a random pro">🎲</button>
+          <button id="giveUpBtn" class="btn ghost">Give up</button>
+          <button id="showResultBtn" class="btn primary">Result</button>
+        </div>
+        <div id="pickPreview" class="pick-preview" hidden></div>
+      </div>
+
+      <div class="legend small">
+        <span><i class="sw hit"></i> Match</span>
+        <span><i class="sw near"></i> Close</span>
+        <span><i class="sw miss"></i> No match</span>
+        <span>↑↓ Secret is higher / lower</span>
+      </div>
+
+      <section id="duelPanel" class="card duel-panel">
+        <div class="tabs" role="tablist">
+          <button class="tab active" data-tab="opp" role="tab">Opponent's guesses <span id="oppCount" class="count"></span></button>
+          <button class="tab" data-tab="chat" role="tab">Chat <span id="unread" class="badge" hidden></span></button>
+        </div>
+        <div id="pane-opp" class="pane active">
+          <p class="muted small pane-note">Clues compare their guesses with <b>your</b> secret pro.</p>
+          <div id="oppGuesses" class="guess-list compact"></div>
+        </div>
+        <div id="pane-chat" class="pane">
+          <div id="chatLog" class="chat-log" aria-live="polite"></div>
+          <form id="chatForm" class="chat-form">
+            <input id="chatInput" maxlength="300" autocomplete="off" placeholder="Say something…" aria-label="Chat message">
+            <button class="btn primary" type="submit">Send</button>
+          </form>
+        </div>
+      </section>
+    </section>
+
+    <aside class="board-side">
+      <div class="side-head">
+        <h2>Your guesses</h2>
+        <span id="myCount" class="count"></span>
+      </div>
+      <div id="myGuesses" class="guess-list"></div>
+    </aside>
+  </main>
+
+  <dialog id="resultDlg" class="result">
+    <div id="resultEmoji" class="result-emoji"></div>
+    <h2 id="resultTitle"></h2>
+    <p id="resultLead" class="muted small"></p>
+    <div id="resultCards" class="result-cards"></div>
+    <p id="resultSub" class="muted small"></p>
+    <div class="result-btns">
+      <button id="rematchBtn" class="btn primary">Play again</button>
+      <button id="closeResult" class="btn ghost">Close</button>
+    </div>
+    <button class="btn ghost small leaveBtn">Leave game</button>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" hidden></div>
+
+  <footer class="credits">
+    Player data &amp; photos: <a href="https://liquipedia.net/valorant/" target="_blank" rel="noopener">Liquipedia</a> (CC BY-SA 3.0).
+    Fan project – not affiliated with or endorsed by Riot Games.
+  </footer>
+
+  <script src="/app.js"></script>
+</body>
+</html>
